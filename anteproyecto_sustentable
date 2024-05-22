@@ -9,60 +9,52 @@
         <h1>Anteproyecto: CultivaSustentable</h1>
     </header>
     
-    
-        <h2>Introducción</h2>
-        <p>El proyecto "CultivaSustentable" está diseñado para fomentar la agricultura urbana y los cultivos sustentables en jardines colgantes. Su propósito es promover un enfoque más sostenible para la producción de alimentos en entornos urbanos.</p>
-    
+    <h2>Introducción</h2>
+    <p>El proyecto "CultivaSustentable" está diseñado para fomentar la agricultura urbana y los cultivos sustentables en jardines colgantes. Su propósito es promover un enfoque más sostenible para la producción de alimentos en entornos urbanos.</p>
 
-   
-        <h2>Situación de los Cultivos Tradicionales en Países en Vías de Desarrollo</h2>
-        <p>Los cultivos tradicionales en países en vías de desarrollo enfrentan numerosos desafíos debido a factores económicos, climáticos y tecnológicos.</p>
-        <h3>Países con Alto Índice de Pobreza</h3>
-        <ol>
-            <li>Haití</li>
-            <li>República Democrática del Congo</li>
-            <li>Zimbabue</li>
-            <li>Afganistán</li>
-            <li>Mozambique</li>
-        </ol>
-    
+    <h2>Situación de los Cultivos Tradicionales en Países en Vías de Desarrollo</h2>
+    <p>Los cultivos tradicionales en países en vías de desarrollo enfrentan numerosos desafíos debido a factores económicos, climáticos y tecnológicos.</p>
+    <h3>Países con Alto Índice de Pobreza</h3>
+    <ol>
+        <li>Haití</li>
+        <li>República Democrática del Congo</li>
+        <li>Zimbabue</li>
+        <li>Afganistán</li>
+        <li>Mozambique</li>
+    </ol>
 
-    
-        <h2>Cultivos Colgantes como Propuesta de una Economía Sustentable</h2>
-        <p>Los cultivos colgantes representan una alternativa viable y sostenible para la producción de alimentos en entornos urbanos, permitiendo un mejor uso del espacio y recursos disponibles.</p>
-        <h3>Comparación de Producción</h3>
-        <table>
-            <tr>
-                <th>Hortaliza</th>
-                <th>Producción en Cultivos Tradicionales (kg/m²)</th>
-                <th>Producción en Cultivos Colgantes (kg/m²)</th>
-            </tr>
-            <tr>
-                <td>Tomate</td>
-                <td>3.5</td>
-                <td>5.0</td>
-            </tr>
-            <tr>
-                <td>Lechuga</td>
-                <td>2.0</td>
-                <td>4.5</td>
-            </tr>
-            <tr>
-                <td>Pimiento</td>
-                <td>2.8</td>
-                <td>4.0</td>
-            </tr>
-        </table>
-   
+    <h2>Cultivos Colgantes como Propuesta de una Economía Sustentable</h2>
+    <p>Los cultivos colgantes representan una alternativa viable y sostenible para la producción de alimentos en entornos urbanos, permitiendo un mejor uso del espacio y recursos disponibles.</p>
+    <h3>Comparación de Producción</h3>
+    <table>
+        <tr>
+            <th>Hortaliza</th>
+            <th>Producción en Cultivos Tradicionales (kg/m²)</th>
+            <th>Producción en Cultivos Colgantes (kg/m²)</th>
+        </tr>
+        <tr>
+            <td>Tomate</td>
+            <td>3.5</td>
+            <td>5.0</td>
+        </tr>
+        <tr>
+            <td>Lechuga</td>
+            <td>2.0</td>
+            <td>4.5</td>
+        </tr>
+        <tr>
+            <td>Pimiento</td>
+            <td>2.8</td>
+            <td>4.0</td>
+        </tr>
+    </table>
 
-    
-        <h2>Referencia Bibliográfica</h2>
-        <ul>
-            <li><a href="https://www.fao.org" target="_blank">FAO - Organización de las Naciones Unidas para la Alimentación y la Agricultura</a></li>
-            <li><a href="https://www.who.int" target="_blank">OMS - Organización Mundial de la Salud</a></li>
-            <li><a href="https://www.worldbank.org" target="_blank">Banco Mundial</a></li>
-            <li><a href="https://www.un.org/sustainabledevelopment/es/" target="_blank">ONU - Objetivos de Desarrollo Sostenible</a></li>
-        </ul>
-  
+    <h2>Referencia Bibliográfica</h2>
+    <ul>
+        <li><a href="https://www.fao.org" target="_blank">FAO - Organización de las Naciones Unidas para la Alimentación y la Agricultura</a></li>
+        <li><a href="https://www.who.int" target="_blank">OMS - Organización Mundial de la Salud</a></li>
+        <li><a href="https://www.worldbank.org" target="_blank">Banco Mundial</a></li>
+        <li><a href="https://www.un.org/sustainabledevelopment/es/" target="_blank">ONU - Objetivos de Desarrollo Sostenible</a></li>
+    </ul>
 </body>
 </html>
