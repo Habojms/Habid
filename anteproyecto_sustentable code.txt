@@ -10,10 +10,10 @@
     </header>
     
     <h2>Introducción</h2>
-    <p>El proyecto "CultivaSustentable" está diseñado para fomentar la agricultura urbana y los cultivos sustentables en jardines colgantes. Su propósito es promover un enfoque más sostenible para la producción de alimentos en entornos urbanos.</p>
+    <p>El proyecto "CultivaSustentable" está diseñado para fomentar <br/>la agricultura urbana y los cultivos sustentables en jardines colgantes.<br/> Su propósito es promover un enfoque más sostenible para la producción de alimentos en entornos urbanos.</p>
 
     <h2>Situación de los Cultivos Tradicionales en Países en Vías de Desarrollo</h2>
-    <p>Los cultivos tradicionales en países en vías de desarrollo enfrentan numerosos desafíos debido a factores económicos, climáticos y tecnológicos.</p>
+    <p>Los cultivos tradicionales en países en vías de desarrollo <br/> enfrentan numerosos desafíos debido a factores económicos, climáticos y tecnológicos.</p>
     <h3>Países con Alto Índice de Pobreza</h3>
     <ol>
         <li>Haití</li>
@@ -24,7 +24,7 @@
     </ol>
 
     <h2>Cultivos Colgantes como Propuesta de una Economía Sustentable</h2>
-    <p>Los cultivos colgantes representan una alternativa viable y sostenible para la producción de alimentos en entornos urbanos, permitiendo un mejor uso del espacio y recursos disponibles.</p>
+    <p>Los cultivos colgantes representan una alternativa viable <br/> y sostenible para la producción de alimentos en entornos urbanos,<br/> permitiendo un mejor uso del espacio y recursos disponibles.</p>
     <h3>Comparación de Producción</h3>
     <table>
         <tr>
@@ -51,9 +51,9 @@
 
     <h2>Referencia Bibliográfica</h2>
     <ul>
-        <li><a href="https://www.fao.org" target="_blank">FAO - Organización de las Naciones Unidas para la Alimentación y la Agricultura</a></li>
-        <li><a href="https://www.who.int" target="_blank">OMS - Organización Mundial de la Salud</a></li>
-        <li><a href="https://www.worldbank.org" target="_blank">Banco Mundial</a></li>
+        <li><a href="https://www.fao.org/home/es/" target="_blank">FAO - Organización de las Naciones Unidas para la Alimentación y la Agricultura</a></li>
+        <li><a href="https://www.who.int/es" target="_blank">OMS - Organización Mundial de la Salud</a></li>
+        <li><a href="https://www.bancomundial.org/es/home" target="_blank">Banco Mundial</a></li>
         <li><a href="https://www.un.org/sustainabledevelopment/es/" target="_blank">ONU - Objetivos de Desarrollo Sostenible</a></li>
     </ul>
 </body>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+       <title>MEDIA</title>
+   </head>
+
+   <body>
+    <h1>MEDIA</h1> 
+    <video controls >
+     <source src="https://www.w3schools.com/html/movie.mp4" type="video/mp4">
+     <source src="https://www.w3schools.com/html/movie.ogg" type="video/ogg">
+    </video>
+    <br/>
+    <video controls >
+      <source src="https://www.bigbuckbunny.org/html/mov_bbb.mp4" type="video/mp4">
+      <source src="https://www.bigbuckbunny.org/html/mov_bbb.ogg " type="video/ogg">
+     </video>
+     <br/>
+   
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ffDicKfiz-k?si=LGJi6znVovy8M75h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <h2>Audio</h2>
+   <audio controls autoplay loop>
+     <source src="media/exampleaudio.mp3" type="audio/mp3">
+   </audio>
+
+   <h2>Formulario</h2>
+   <form action="media.html" method="get">
+    <label for="txtNombre">Nombre</label>
+    <input  id="txtNombre" type ="text" placeholder="NOMBRE COMPLETO"/>
+    <br/>
+    <label for="txtEmail">Correo</label>
+    <input  id="txtEmail" type ="email" placeholder="correo"/>
+    <br/>
+    <button name ="btnenviar" type="submit">enviar</button>
+     <label for="txtPassword">Contreaseña</label>
+     <input id="txtPassword" name="password"
+     type="password"
+     title="8 letras,  1 mayuscala 1 numero y un caracter"
+     <br/>
+     <label>Tema</label>
+     <div>
+       <input name="opctema" value="Dark" id="opcDark" type="radio"/>
+       <label for="opcDark">dark</label>
+       <input name="opctema" value="light" id="opcLight" type="radio"/>
+       <label for="opcLight">Light</label>
+     </div>
+    <br/>
+     <fieldset>
+      <legend>OPCIONES</legend>
+      <label for="chkshare">Compatir con amigos</label>
+      <input type="checkbox" value="1" name="share with friends"/>
+      <label for="chkshare">Compatir con familiares</label>
+      <input type="checkbox" value="1" name="share with familiares"/>
+     </fieldset>
+       
+    <br/>
+
+        <label for="cmbCuidad">
+           <select id="=cmbCuidad" name="Cuidad"/>
+           <option value="1">SAN PEDRO SULA</option>
+           <option value="2">SIGUATEPEQUE</option> 
+           <option value="3">COMAYAGUA</option>
+           <option value="4">TRUJILLO</option> 
+           </select>
+        </label>
+        <label for="txt blog">entrada de blog</label>
+        <br/>
+        <textarea name="txtblog" id="txtblog" placeholder="ingresar texto" cols="80" rows="10"></textarea>
+   </form>
+</body>
+
+</html>
